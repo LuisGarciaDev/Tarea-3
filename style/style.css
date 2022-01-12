@@ -1,0 +1,52 @@
+
+h4{
+    margin: 25px;
+    color: grey;
+}
+.c-green{
+    color:limegreen;
+}
+.c-alert{
+    background-color: yellow;
+}
+.colorimc{
+    background-color: yellow;
+}
+.bg-green{
+    background-color: limegreen;
+}
+.c-w{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.lista {
+    margin: 20px;;
+}
+div{
+    margin: 20px;
+}
+.iconsman{
+    width: 10px;
+}
+.iconimgs{
+    width: 20px;
+}
+
+.img1 {
+    width: 50px;
+}
+.img1:hover {
+    background-color: gold;
+}
+.img2 {
+    width: 50px;
+
+}
+.img2:hover {
+    background-color: gold;
+}
+.resultadografico {
+    background: linear-gradient(blue,yellow,green,red);
+    
+  }
+  
